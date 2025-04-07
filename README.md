@@ -5,7 +5,7 @@ This repo contains code demos used in class. To access interactive versions of a
 - [2.4 - Fibonacci sequence closed form](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/2.4-fibonacci-closed-form.ipynb)
 - [2.5 - Cantor Diagonalization](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/2.5-cantor-diagnolization.ipynb)
 - [4.6 - RSA Demonstration](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/4.6-RSA_demo.ipynb)
-- [5.4 - Recursion](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/5.4-recursion05.ipynb)
+- [5.4 - Recursion](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/5.4-recursion06.ipynb)
 - [5.4 - Recursive cube solver](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/5.4-recursive-cube-solver.ipynb)
 
 Alternatively, you can access static versions of the notebooks by clicking on them directly above.
