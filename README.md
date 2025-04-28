@@ -7,7 +7,7 @@ This repo contains code demos used in class. To access interactive versions of a
 - [4.6 - RSA Demonstration](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/4.6-RSA_demo.ipynb)
 - [5.4 - Recursion](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/5.4-recursion06.ipynb)
 - [5.4 - Recursive cube solver](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/5.4-recursive-cube-solver02.ipynb)
-- [A1 - Mandelbrot fractal](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/A1-mandelbrot7.ipynb)
+- [A1 - Mandelbrot set](https://colab.research.google.com/github/danknights/csci2011-2025s/blob/main/A1-mandelbrot7.ipynb)
 
 Alternatively, you can access static versions of the notebooks by going to the [repo home page](https://github.com/danknights/csci2011-2025s/tree/main) and clicking directly on the notebook file links.
 
